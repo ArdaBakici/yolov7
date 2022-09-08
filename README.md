@@ -2,7 +2,7 @@
 
 ## Purpose of this fork
 
-This fork is used in Artifical Intelligence in Transportation 2022 repository with tiny quality of life changes in the code. Model structure or codes relating the model are not changed.
+This fork is used in [Artifical Intelligence in Transportation 2022](https://github.com/ArdaBakici/Teknofest-UYZ-2022) repository with tiny quality of life changes in the code. Model structure or codes relating the model are not changed.
 
 ---
 
